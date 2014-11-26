@@ -1,0 +1,7 @@
+--default-path spec
+--format documentation
+--format json
+--out ./report/rspec_results.json
+--format html
+--out ./report/rspec_results.html
+--require ./config/spec_helper
