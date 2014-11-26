@@ -1,0 +1,16 @@
+jobname = mabji01-rh58x64-1-nfs.sh
+jobtype = 4
+uuid = c2cb7325-6463-456f-a602-faed754728d2
+targethost = mabji01-rh58x64-1
+targetuser = root
+targetpasswd = bV0wt44Fm1P4juvrNUbZBA==
+sessionlocation = 155.35.65.52:/S100
+compression = 2
+throughputlimit = 0
+recoverysetcount = 3
+recoverysetstartflag = 0
+existfullschedulejob = 0
+servertimezone = 8
+jobID = 30
+lang = C
+managerecoverysets = 1

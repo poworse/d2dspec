@@ -1,0 +1,26 @@
+    #required parameters:
+    node_list =     
+   guest_ip_list = 155.35.86.217,155.35.86.151,155.35.86.152
+    #guest_ip_list = 155.35.82.181
+    vm_type = xen
+    vm_server = 155.35.86.182
+    vm_svr_username = root
+    vm_svr_password = bV0wt44Fm1P4juvrNUbZBA==
+    
+    #optional parameters:
+    #vm_network =
+    #guest_gateway =
+    #guest_netmask =
+    #guest_username = 
+    #guest_password =
+    #storage_location = 
+    #storage_username = 
+    #storage_password = 
+    #recovery_point = last
+    #encryption_password =jJO3unU9yXUJaKv7KwRGLg==
+    #script = /d2dtest/util/driver/bmrCheck.sh
+    email_to_address = mabji01@ca.com
+    #email_subject =
+    report_format = text
+    #node_not_in_db =
+    stop_vm_after_recovery =no

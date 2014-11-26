@@ -1,0 +1,23 @@
+#job_name = mabji01-sl11sp2x64-1-backkup
+vm_type = xen 
+vm_server = 155.35.86.177
+vm_svr_username = root
+vm_svr_password = bV0wt44Fm1P4juvrNUbZBA==
+vm_name = verify_mabji01-sl11sp2x64-1
+#vm_uuid = 
+#vm_network = 
+storage_location = 155.35.65.120:/S100
+#storage_username = 
+#storage_password = 
+#encryption_password = 
+source_node = mabji01-sl11sp2x64-1
+recovery_point = last
+guest_hostname = mabji01-sl11sp2x64-1-test
+guest_network = dhcp
+#guest_ip = 
+#guest_netmask = 
+#guest_gateway = 
+#guest_reboot = 
+#guest_reset_username = 
+#guest_reset_password = 
+force = yes 

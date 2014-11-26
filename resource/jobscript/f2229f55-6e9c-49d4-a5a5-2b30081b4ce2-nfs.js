@@ -1,0 +1,16 @@
+jobname = mabji01-sl11sp2x64-1_./casesuits/suit_backup_bmr/case_cifs_ecyp/case_cifs_ecyp.sh
+jobtype = 4
+uuid = f2229f55-6e9c-49d4-a5a5-2b30081b4ce2
+targethost = mabji01-sl11sp2x64-1
+targetuser = root
+targetpasswd = bV0wt44Fm1P4juvrNUbZBA==
+sessionlocation = 155.35.65.52:/S100
+compression = 1
+throughputlimit = 0
+recoverysetcount = 3
+recoverysetstartflag = 0
+existfullschedulejob = 0
+servertimezone = 8
+jobID = 18
+lang = C
+managerecoverysets = 1
